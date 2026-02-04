@@ -3,3 +3,4 @@ git status
 git add <filename> or .
 git rm --cached <file>
 git commit FIrst_program.py README.txt.txt git_commands.txt -m "My first commit"
+git restore FIrst_program.py
