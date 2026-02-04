@@ -1,0 +1,4 @@
+git init
+git status
+git add <filename> or .
+git rm --cached <file>
