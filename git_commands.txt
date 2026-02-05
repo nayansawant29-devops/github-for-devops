@@ -4,3 +4,9 @@ git add <filename> or .
 git rm --cached <file>
 git commit FIrst_program.py README.txt.txt git_commands.txt -m "My first commit"
 git restore FIrst_program.py
+git remote -v
+git remote set-url origin https://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@github.com/nayansawant29-devops/github-for-devops.git
+git push origin master
+git remote add origin https://github.com/nayansawant29-devops/github-for-devops.git
+git fork  -- not sure this is an command
+git clone https://github.com/nayansawant29-devops/github-for-devops-workshop.git
