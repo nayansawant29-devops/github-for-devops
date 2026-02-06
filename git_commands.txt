@@ -10,3 +10,9 @@ git push origin master
 git remote add origin https://github.com/nayansawant29-devops/github-for-devops.git
 git fork  -- not sure this is an command
 git clone https://github.com/nayansawant29-devops/github-for-devops-workshop.git
+git branch
+git branch dev
+git switch dev
+git log
+git log --oneline
+git checkout  --- switch and checkout is same to change the branch
