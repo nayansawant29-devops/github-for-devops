@@ -5,6 +5,7 @@ git rm --cached <file>
 git commit FIrst_program.py README.txt.txt git_commands.txt -m "My first commit"
 git restore FIrst_program.py
 git remote -v
+git remote set-url origin https://github.com/nayansawant29-devops/github-for-devops.git
 git push origin master
 git remote add origin https://github.com/nayansawant29-devops/github-for-devops.git
 git fork  -- not sure this is an command
